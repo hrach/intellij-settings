@@ -4,7 +4,7 @@
     <property name="created">2017-06-29T11:39:32</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.0.0.3</property>
-    <property name="modified">2017-08-04T09:54:16</property>
+    <property name="modified">2017-08-04T14:06:29</property>
     <property name="originalScheme">Default copy</property>
   </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="14" />
@@ -110,6 +110,11 @@
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" value="808080" />
         <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="KOTLIN_ABSTRACT_CLASS">
+      <value>
+        <option name="FOREGROUND" value="a20402" />
       </value>
     </option>
     <option name="KOTLIN_ANNOTATION">
