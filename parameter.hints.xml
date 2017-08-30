@@ -1,0 +1,9 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Kotlin">
+        <added pattern="kotlin.collections.mapOf(pairs)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>
