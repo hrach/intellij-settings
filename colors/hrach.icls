@@ -4,7 +4,7 @@
     <property name="created">2017-06-29T11:39:32</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.0.0.3</property>
-    <property name="modified">2017-08-04T14:06:29</property>
+    <property name="modified">2017-09-01T12:55:12</property>
     <property name="originalScheme">Default copy</property>
   </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="14" />
@@ -320,6 +320,12 @@
     <option name="LOGCAT_WARNING_OUTPUT">
       <value>
         <option name="FOREGROUND" value="d88b25" />
+      </value>
+    </option>
+    <option name="TODO_DEFAULT_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="693ba5" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
   </attributes>
