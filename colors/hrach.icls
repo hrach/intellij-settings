@@ -4,7 +4,7 @@
     <property name="created">2017-06-29T11:39:32</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.0.0.3</property>
-    <property name="modified">2017-09-01T12:55:12</property>
+    <property name="modified">2017-09-26T18:00:16</property>
     <property name="originalScheme">Default copy</property>
   </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="14" />
@@ -13,6 +13,16 @@
   <option name="CONSOLE_FONT_SIZE" value="12" />
   <option name="EDITOR_FONT_NAME" value="Fira Code" />
   <attributes>
+    <option name="DEFAULT_ATTRIBUTE">
+      <value>
+        <option name="FOREGROUND" value="a20402" />
+      </value>
+    </option>
+    <option name="DEFAULT_BLOCK_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="808080" />
+      </value>
+    </option>
     <option name="DEFAULT_CLASS_NAME">
       <value>
         <option name="FOREGROUND" value="693ba5" />
@@ -26,6 +36,17 @@
     <option name="DEFAULT_CONSTANT">
       <value>
         <option name="FOREGROUND" value="660e7a" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="DEFAULT_DOC_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="808080" />
+      </value>
+    </option>
+    <option name="DEFAULT_DOC_COMMENT_TAG_VALUE">
+      <value>
+        <option name="FOREGROUND" value="3d3d3d" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -68,6 +89,11 @@
       <value>
         <option name="FOREGROUND" value="3a418b" />
         <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="DEFAULT_LINE_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="808080" />
       </value>
     </option>
     <option name="DEFAULT_LOCAL_VARIABLE">
@@ -328,5 +354,6 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="XML_PROLOGUE" baseAttributes="TEXT" />
   </attributes>
 </scheme>
