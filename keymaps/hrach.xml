@@ -1,4 +1,4 @@
-<keymap version="1" name="Default copy" parent="$default">
+<keymap version="1" name="hrach" parent="$default">
   <action id="$Cut">
     <keyboard-shortcut first-keystroke="ctrl x" />
   </action>
