@@ -13,6 +13,7 @@
       <mapping ext="vw" type="DBN-SQL" />
       <mapping pattern="tripomatic" type="Native" />
       <mapping ext="tpl" type="PLAIN_TEXT" />
+      <mapping ext="php" type="PLAIN_TEXT" />
       <mapping ext="mockmaker" type="PLAIN_TEXT" />
       <mapping pattern=".gitignore_global" type="Git file" />
     </extensionMap>
