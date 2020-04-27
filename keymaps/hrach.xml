@@ -80,6 +80,9 @@
     <keyboard-shortcut first-keystroke="alt v" />
   </action>
   <action id="UpdateRunningApplication" />
+  <action id="Vcs.ShowTabbedFileHistory">
+    <keyboard-shortcut first-keystroke="alt g" />
+  </action>
   <action id="XDebugger.EditWatch" />
   <action id="XDebugger.SetValue" />
   <action id="android.deploy.ApplyChanges">
