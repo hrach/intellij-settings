@@ -50,6 +50,7 @@
   <action id="GotoCustomRegion" />
   <action id="GotoImplementation">
     <mouse-shortcut keystroke="control alt button1" />
+    <keyboard-shortcut first-keystroke="alt b" />
   </action>
   <action id="GotoNextError" />
   <action id="Inline" />
