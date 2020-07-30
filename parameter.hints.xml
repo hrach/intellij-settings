@@ -8,5 +8,6 @@
       </blacklist>
     </blacklists>
     <option id="SHOW_PARAMETER_HINT" value="false" />
+    <option id="SHOW_PROPERTY_HINT" value="true" />
   </component>
 </application>
