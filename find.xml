@@ -16,7 +16,7 @@
     <mask>*.xml</mask>
     <mask>*ViewModel*</mask>
     <mask>*Module*</mask>
-    <mask>*.gradle</mask>
     <mask>*.kt</mask>
+    <mask>*.gradle</mask>
   </component>
 </application>
