@@ -98,7 +98,9 @@
     </Renderer>
   </component>
   <component name="XDebuggerSettings">
-    <data-views />
+    <data-views>
+      <sort-values>true</sort-values>
+    </data-views>
     <general />
     <debuggers>
       <debugger id="kotlin_debugger">
