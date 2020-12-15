@@ -1,0 +1,9 @@
+<application>
+  <component name="StructuralSearch">
+    <replaceConfiguration name="replace Mockito when with whenever" text="$MethodCall$($Parameters$)" recursive="false" caseInsensitive="true" type="Kotlin" pattern_context="default" reformatAccordingToStyle="false" shortenFQN="true" replacement="com.nhaarman.mockitokotlin2.whenever($Parameters$)">
+      <constraint name="__context__" within="" contains="" />
+      <constraint name="MethodCall" regexp="`when`" target="true" within="" contains="" />
+      <constraint name="Parameters" within="" contains="" />
+    </replaceConfiguration>
+  </component>
+</application>
