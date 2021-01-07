@@ -16,8 +16,8 @@
     <mask>*ViewModel*</mask>
     <mask>*.kt</mask>
     <mask>*Module*</mask>
-    <mask>*.xml</mask>
     <mask>dimens.xml</mask>
     <mask>*.gradle</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
