@@ -11,10 +11,12 @@
         <entry key="..\:/storage/android/app/src/main/res/layout/fragment_watchdog_detail.xml" value="0.346875" />
         <entry key="..\:/storage/android/app/src/main/res/layout/widget_booking_terms_and_conditions.xml" value="0.33" />
         <entry key="..\:/storage/android/app/src/main/res/layout/widget_classic_banner.xml" value="0.4157608695652174" />
-        <entry key="..\:/storage/android/shared/base/src/main/res/layout/fragment_contextual_modal.xml" value="0.17046605876393112" />
+        <entry key="..\:/storage/android/shared/base/src/main/res/layout/fragment_contextual_modal.xml" value="0.35260416666666666" />
         <entry key="..\:/storage/android/shared/base/src/main/res/layout/fragment_onboarding.xml" value="0.21105072463768115" />
         <entry key="..\:/storage/android/shared/base/src/main/res/layout/fragment_picker_container.xml" value="0.5671875" />
-        <entry key="..\:/storage/android/shared/orbit/src/main/res/drawable/orbit_icon_check_small_primary.xml" value="0.24375" />
+        <entry key="..\:/storage/android/shared/orbit/src/main/res/drawable/orbit_icon_check_circle_medium_tertiary.xml" value="0.36770833333333336" />
+        <entry key="..\:/storage/android/shared/orbit/src/main/res/drawable/orbit_icon_check_circle_medium_white.xml" value="0.36770833333333336" />
+        <entry key="..\:/storage/android/shared/orbit/src/main/res/drawable/orbit_icon_check_small_primary.xml" value="0.36770833333333336" />
         <entry key="..\:/storage/android/shared/orbit/src/main/res/drawable/orbit_icon_check_small_secondary.xml" value="0.24375" />
       </map>
     </option>
