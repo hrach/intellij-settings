@@ -3,6 +3,9 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/jan.skrasek/.gradle/caches/transforms-2/files-2.1/7292452e230e015d92759edc25b82a99/material-1.2.0/res/layout/design_bottom_sheet_dialog.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/jan.skrasek/AndroidStudioProjects/fragmentstest/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/jan.skrasek/AndroidStudioProjects/fragmentstest/app/src/main/res/layout/fragment_inner.xml" value="0.10612968591691996" />
+        <entry key="..\:/Users/jan.skrasek/AndroidStudioProjects/fragmentstest/app/src/main/res/layout/fragment_test.xml" value="0.1" />
         <entry key="..\:/storage/android/app/src/main/res/layout/content_multicity_segment.xml" value="0.1" />
         <entry key="..\:/storage/android/app/src/main/res/layout/content_one_way.xml" value="0.3796875" />
         <entry key="..\:/storage/android/app/src/main/res/layout/fragment_explore_gallery_image.xml" value="0.1" />
