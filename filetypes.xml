@@ -7,7 +7,7 @@
       <mapping ext="mockmaker" type="PLAIN_TEXT" />
       <mapping ext="php" type="PLAIN_TEXT" />
       <mapping ext="tpl" type="PLAIN_TEXT" />
-      <mapping ext="qrc" type="XML" />
+      <mapping ext="flat" type="PLAIN_TEXT" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="pkg" type="DBN-PSQL" />
