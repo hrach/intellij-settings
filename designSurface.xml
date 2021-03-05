@@ -25,6 +25,7 @@
         <entry key="..\:/storage/android/app/src/main/res/layout/widget_payment_card_form.xml" value="0.27583586626139817" />
         <entry key="..\:/storage/android/feature/account/src/main/res/layout/fragment_login_check_email.xml" value="0.19022289766970618" />
         <entry key="..\:/storage/android/feature/account/src/main/res/layout/fragment_login_email_sign_in.xml" value="0.25" />
+        <entry key="..\:/storage/android/feature/account/src/main/res/layout/fragment_login_email_sign_up.xml" value="0.19022289766970618" />
         <entry key="..\:/storage/android/feature/account/src/main/res/layout/fragment_login_forgotten_password.xml" value="0.19022289766970618" />
         <entry key="..\:/storage/android/feature/account/src/main/res/layout/fragment_login_home.xml" value="0.33" />
         <entry key="..\:/storage/android/feature/account/src/main/res/layout/fragment_login_success.xml" value="0.19022289766970618" />
