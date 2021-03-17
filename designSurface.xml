@@ -9,9 +9,11 @@
         <entry key="..\:/Users/jan.skrasek/AndroidStudioProjects/fragmentstest/app/src/main/res/layout/fragment_test.xml" value="0.1" />
         <entry key="..\:/Users/jan.skrasek/AndroidStudioProjects/testCoroutines/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/storage/android/app/src/main/res/layout-sw720dp/fragment_profile.xml" value="0.1436495791889824" />
+        <entry key="..\:/storage/android/app/src/main/res/layout/activity_booking_steps_summary.xml" value="0.18465045592705168" />
         <entry key="..\:/storage/android/app/src/main/res/layout/content_multicity_segment.xml" value="0.1" />
         <entry key="..\:/storage/android/app/src/main/res/layout/content_one_way.xml" value="0.3796875" />
         <entry key="..\:/storage/android/app/src/main/res/layout/content_profile.xml" value="0.1" />
+        <entry key="..\:/storage/android/app/src/main/res/layout/fragment_booking_payment_container.xml" value="0.18465045592705168" />
         <entry key="..\:/storage/android/app/src/main/res/layout/fragment_departure_geofence_banner.xml" value="0.18465045592705168" />
         <entry key="..\:/storage/android/app/src/main/res/layout/fragment_explore_gallery_image.xml" value="0.1" />
         <entry key="..\:/storage/android/app/src/main/res/layout/fragment_health_description.xml" value="0.213768115942029" />
@@ -29,7 +31,8 @@
         <entry key="..\:/storage/android/app/src/main/res/layout/view_gateway_payment_method.xml" value="0.11702127659574468" />
         <entry key="..\:/storage/android/app/src/main/res/layout/view_payment_card.xml" value="0.1" />
         <entry key="..\:/storage/android/app/src/main/res/layout/widget_booking_combined_trip_banner.xml" value="0.35260416666666666" />
-        <entry key="..\:/storage/android/app/src/main/res/layout/widget_booking_terms_and_conditions.xml" value="0.33" />
+        <entry key="..\:/storage/android/app/src/main/res/layout/widget_booking_steps_price_bottom_navigation.xml" value="0.18465045592705168" />
+        <entry key="..\:/storage/android/app/src/main/res/layout/widget_booking_terms_and_conditions.xml" value="0.1" />
         <entry key="..\:/storage/android/app/src/main/res/layout/widget_classic_banner.xml" value="0.4157608695652174" />
         <entry key="..\:/storage/android/app/src/main/res/layout/widget_gateway_payment_methods_v2.xml" value="0.2848731884057971" />
         <entry key="..\:/storage/android/app/src/main/res/layout/widget_guarantee.xml" value="0.25" />
