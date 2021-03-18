@@ -18,7 +18,8 @@
         <entry key="..\:/storage/android/app/src/main/res/layout/fragment_departure_geofence_banner.xml" value="0.18465045592705168" />
         <entry key="..\:/storage/android/app/src/main/res/layout/fragment_explore_gallery_image.xml" value="0.1" />
         <entry key="..\:/storage/android/app/src/main/res/layout/fragment_health_description.xml" value="0.213768115942029" />
-        <entry key="..\:/storage/android/app/src/main/res/layout/fragment_manage_my_booking.xml" value="0.17119565217391305" />
+        <entry key="..\:/storage/android/app/src/main/res/layout/fragment_manage_my_booking.xml" value="0.18465045592705168" />
+        <entry key="..\:/storage/android/app/src/main/res/layout/fragment_manage_my_booking_detail.xml" value="0.18465045592705168" />
         <entry key="..\:/storage/android/app/src/main/res/layout/fragment_overlay_payment_card.xml" value="0.2477355072463768" />
         <entry key="..\:/storage/android/app/src/main/res/layout/fragment_paid_guarantee_step.xml" value="0.20923913043478262" />
         <entry key="..\:/storage/android/app/src/main/res/layout/fragment_payment.xml" value="0.33" />
