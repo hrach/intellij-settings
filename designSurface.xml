@@ -56,6 +56,7 @@
         <entry key="..\:/storage/android/feature/account/src/main/res/layout/fragment_login_forgotten_password.xml" value="0.19022289766970618" />
         <entry key="..\:/storage/android/feature/account/src/main/res/layout/fragment_login_home.xml" value="0.21067415730337077" />
         <entry key="..\:/storage/android/feature/account/src/main/res/layout/fragment_login_overlay.xml" value="0.18465045592705168" />
+        <entry key="..\:/storage/android/feature/account/src/main/res/layout/fragment_login_social_account_exists.xml" value="0.18465045592705168" />
         <entry key="..\:/storage/android/feature/account/src/main/res/layout/fragment_login_success.xml" value="0.19022289766970618" />
         <entry key="..\:/storage/android/shared/base/src/main/res/layout/fragment_contextual_modal.xml" value="0.35260416666666666" />
         <entry key="..\:/storage/android/shared/base/src/main/res/layout/fragment_onboarding.xml" value="0.21105072463768115" />
