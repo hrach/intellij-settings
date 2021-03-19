@@ -21,8 +21,9 @@
         <entry key="..\:/storage/android/app/src/main/res/layout/fragment_manage_my_booking.xml" value="0.18465045592705168" />
         <entry key="..\:/storage/android/app/src/main/res/layout/fragment_manage_my_booking_detail.xml" value="0.18465045592705168" />
         <entry key="..\:/storage/android/app/src/main/res/layout/fragment_onboarding_step_final.xml" value="0.17685185185185184" />
+        <entry key="..\:/storage/android/app/src/main/res/layout/fragment_onboarding_step_interests.xml" value="0.18465045592705168" />
         <entry key="..\:/storage/android/app/src/main/res/layout/fragment_onboarding_step_location.xml" value="0.17685185185185184" />
-        <entry key="..\:/storage/android/app/src/main/res/layout/fragment_onboarding_step_login.xml" value="0.17685185185185184" />
+        <entry key="..\:/storage/android/app/src/main/res/layout/fragment_onboarding_step_login.xml" value="0.18465045592705168" />
         <entry key="..\:/storage/android/app/src/main/res/layout/fragment_onboarding_step_welcome.xml" value="0.18465045592705168" />
         <entry key="..\:/storage/android/app/src/main/res/layout/fragment_overlay_payment_card.xml" value="0.2477355072463768" />
         <entry key="..\:/storage/android/app/src/main/res/layout/fragment_paid_guarantee_step.xml" value="0.20923913043478262" />
