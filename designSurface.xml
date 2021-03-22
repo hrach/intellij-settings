@@ -59,6 +59,7 @@
         <entry key="..\:/storage/android/feature/account/src/main/res/layout/fragment_login_overlay.xml" value="0.18465045592705168" />
         <entry key="..\:/storage/android/feature/account/src/main/res/layout/fragment_login_social_account_exists.xml" value="0.18465045592705168" />
         <entry key="..\:/storage/android/feature/account/src/main/res/layout/fragment_login_socials.xml" value="0.33" />
+        <entry key="..\:/storage/android/feature/account/src/main/res/layout/fragment_login_socials2.xml" value="0.25" />
         <entry key="..\:/storage/android/feature/account/src/main/res/layout/fragment_login_success.xml" value="0.19022289766970618" />
         <entry key="..\:/storage/android/shared/base/src/main/res/layout/fragment_contextual_modal.xml" value="0.35260416666666666" />
         <entry key="..\:/storage/android/shared/base/src/main/res/layout/fragment_onboarding.xml" value="0.21105072463768115" />
@@ -68,6 +69,7 @@
         <entry key="..\:/storage/android/shared/orbit/src/main/res/drawable/orbit_icon_check_circle_medium_white.xml" value="0.36770833333333336" />
         <entry key="..\:/storage/android/shared/orbit/src/main/res/drawable/orbit_icon_check_small_primary.xml" value="0.36770833333333336" />
         <entry key="..\:/storage/android/shared/orbit/src/main/res/drawable/orbit_icon_check_small_secondary.xml" value="0.24375" />
+        <entry key="..\:/storage/android/shared/orbit/src/main/res/drawable/orbit_icon_facebook_medium.xml" value="0.24270833333333333" />
       </map>
     </option>
   </component>
