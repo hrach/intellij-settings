@@ -52,6 +52,7 @@
         <entry key="..\:/storage/android/feature/account/src/main/res/layout/activity_login.xml" value="0.1" />
         <entry key="..\:/storage/android/feature/account/src/main/res/layout/fragment_login.xml" value="0.18465045592705168" />
         <entry key="..\:/storage/android/feature/account/src/main/res/layout/fragment_login_check_email.xml" value="0.19022289766970618" />
+        <entry key="..\:/storage/android/feature/account/src/main/res/layout/fragment_login_email_flow.xml" value="0.1" />
         <entry key="..\:/storage/android/feature/account/src/main/res/layout/fragment_login_email_sign_in.xml" value="0.25" />
         <entry key="..\:/storage/android/feature/account/src/main/res/layout/fragment_login_email_sign_up.xml" value="0.22" />
         <entry key="..\:/storage/android/feature/account/src/main/res/layout/fragment_login_forgotten_password.xml" value="0.19022289766970618" />
