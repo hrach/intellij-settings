@@ -59,6 +59,7 @@
         <entry key="..\:/storage/android/app/src/main/res/layout/view_gateway_payment_method.xml" value="0.11702127659574468" />
         <entry key="..\:/storage/android/app/src/main/res/layout/view_payment_card.xml" value="0.1" />
         <entry key="..\:/storage/android/app/src/main/res/layout/widget_booking_combined_trip_banner.xml" value="0.35260416666666666" />
+        <entry key="..\:/storage/android/app/src/main/res/layout/widget_booking_hand_bags_only_banner.xml" value="0.25" />
         <entry key="..\:/storage/android/app/src/main/res/layout/widget_booking_passenger_list.xml" value="0.18465045592705168" />
         <entry key="..\:/storage/android/app/src/main/res/layout/widget_booking_steps_price_bottom_navigation.xml" value="0.18465045592705168" />
         <entry key="..\:/storage/android/app/src/main/res/layout/widget_booking_terms_and_conditions.xml" value="0.1" />
@@ -85,6 +86,8 @@
         <entry key="..\:/storage/android/feature/account/src/main/res/layout/fragment_login_socials.xml" value="0.1" />
         <entry key="..\:/storage/android/feature/account/src/main/res/layout/fragment_login_socials2.xml" value="0.25" />
         <entry key="..\:/storage/android/feature/account/src/main/res/layout/fragment_login_success.xml" value="0.19022289766970618" />
+        <entry key="..\:/storage/android/feature/ancillaries/src/main/res/layout/fragment_baggage_picker.xml" value="0.22" />
+        <entry key="..\:/storage/android/feature/ancillaries/src/main/res/layout/widget_baggage_summary.xml" value="0.18" />
         <entry key="..\:/storage/android/shared/base/src/main/res/layout/fragment_contextual_modal.xml" value="0.35260416666666666" />
         <entry key="..\:/storage/android/shared/base/src/main/res/layout/fragment_onboarding.xml" value="0.21105072463768115" />
         <entry key="..\:/storage/android/shared/base/src/main/res/layout/fragment_picker_container.xml" value="0.5671875" />
