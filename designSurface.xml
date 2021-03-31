@@ -87,6 +87,7 @@
         <entry key="..\:/storage/android/feature/account/src/main/res/layout/fragment_login_socials2.xml" value="0.25" />
         <entry key="..\:/storage/android/feature/account/src/main/res/layout/fragment_login_success.xml" value="0.19022289766970618" />
         <entry key="..\:/storage/android/feature/ancillaries/src/main/res/layout/fragment_baggage_picker.xml" value="0.22" />
+        <entry key="..\:/storage/android/feature/ancillaries/src/main/res/layout/item_baggage_bundle.xml" value="0.18" />
         <entry key="..\:/storage/android/feature/ancillaries/src/main/res/layout/widget_baggage_summary.xml" value="0.18" />
         <entry key="..\:/storage/android/shared/base/src/main/res/layout/fragment_contextual_modal.xml" value="0.35260416666666666" />
         <entry key="..\:/storage/android/shared/base/src/main/res/layout/fragment_onboarding.xml" value="0.21105072463768115" />
