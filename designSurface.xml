@@ -56,6 +56,7 @@
         <entry key="..\:/storage/android/app/src/main/res/layout/item_one_way.xml" value="0.3796875" />
         <entry key="..\:/storage/android/app/src/main/res/layout/item_saved_travelers_list_adapter.xml" value="0.25" />
         <entry key="..\:/storage/android/app/src/main/res/layout/item_simple_places_picker_item.xml" value="0.1" />
+        <entry key="..\:/storage/android/app/src/main/res/layout/layout_insurance_button.xml" value="0.1" />
         <entry key="..\:/storage/android/app/src/main/res/layout/view_gateway_payment_method.xml" value="0.11702127659574468" />
         <entry key="..\:/storage/android/app/src/main/res/layout/view_payment_card.xml" value="0.1" />
         <entry key="..\:/storage/android/app/src/main/res/layout/widget_booking_combined_trip_banner.xml" value="0.35260416666666666" />
@@ -67,6 +68,7 @@
         <entry key="..\:/storage/android/app/src/main/res/layout/widget_edit_personal_details.xml" value="0.21" />
         <entry key="..\:/storage/android/app/src/main/res/layout/widget_gateway_payment_methods_v2.xml" value="0.2848731884057971" />
         <entry key="..\:/storage/android/app/src/main/res/layout/widget_guarantee.xml" value="0.25" />
+        <entry key="..\:/storage/android/app/src/main/res/layout/widget_insurance.xml" value="0.18" />
         <entry key="..\:/storage/android/app/src/main/res/layout/widget_payment_card_form.xml" value="0.27583586626139817" />
         <entry key="..\:/storage/android/app/src/main/res/layout/widget_saved_traveler_list.xml" value="0.18465045592705168" />
         <entry key="..\:/storage/android/app/src/main/res/layout/widget_top_destinations_item.xml" value="0.18465045592705168" />
