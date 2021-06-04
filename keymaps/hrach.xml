@@ -63,7 +63,9 @@
   <action id="IntroduceField" />
   <action id="IntroduceVariable" />
   <action id="Mvc.RunTarget" />
-  <action id="ParameterInfo" />
+  <action id="ParameterInfo">
+    <keyboard-shortcut first-keystroke="ctrl #10000fa" />
+  </action>
   <action id="RecentProjectListGroup">
     <keyboard-shortcut first-keystroke="alt p" />
   </action>
