@@ -6,5 +6,7 @@
     <mask>*.xml</mask>
     <mask>*.gradle</mask>
     <mask>phraseapp.xml</mask>
+    <mask>.xml</mask>
+    <mask>*mock*</mask>
   </component>
 </application>

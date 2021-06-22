@@ -19,6 +19,7 @@
   <action id="ActivateStructureToolWindow" />
   <action id="ActivateTODOToolWindow" />
   <action id="ActivateVersionControlToolWindow" />
+  <action id="AddToFavoritesPopup" />
   <action id="Arrangement.Alias.Rule.Edit" />
   <action id="Arrangement.Rule.Edit" />
   <action id="CloseContent">
@@ -63,7 +64,9 @@
   <action id="IntroduceField" />
   <action id="IntroduceVariable" />
   <action id="Mvc.RunTarget" />
-  <action id="ParameterInfo" />
+  <action id="ParameterInfo">
+    <keyboard-shortcut first-keystroke="ctrl #10000fa" />
+  </action>
   <action id="RecentProjectListGroup">
     <keyboard-shortcut first-keystroke="alt p" />
   </action>
@@ -71,6 +74,7 @@
     <keyboard-shortcut first-keystroke="shift f6" />
     <keyboard-shortcut first-keystroke="f2" />
   </action>
+  <action id="RerunTests" />
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="alt j" />
     <keyboard-shortcut first-keystroke="alt d" />
@@ -84,6 +88,12 @@
   </action>
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="alt v" />
+  </action>
+  <action id="StructuralSearchPlugin.StructuralReplaceAction">
+    <keyboard-shortcut first-keystroke="shift alt r" />
+  </action>
+  <action id="StructuralSearchPlugin.StructuralSearchAction">
+    <keyboard-shortcut first-keystroke="shift alt f" />
   </action>
   <action id="XDebugger.EditWatch" />
   <action id="XDebugger.SetValue" />
