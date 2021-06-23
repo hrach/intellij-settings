@@ -8,5 +8,6 @@
     <mask>phraseapp.xml</mask>
     <mask>.xml</mask>
     <mask>*mock*</mask>
+    <mask>*module*</mask>
   </component>
 </application>
