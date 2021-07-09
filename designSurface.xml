@@ -1,0 +1,10 @@
+<application>
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/storage/kiwi/android/feature/helpdesk/src/main/res/drawable/background_rounded_gray.xml" value="0.396875" />
+        <entry key="..\:/storage/kiwi/android/feature/helpdesk/src/main/res/drawable/unread_indicator.xml" value="0.396875" />
+      </map>
+    </option>
+  </component>
+</application>
