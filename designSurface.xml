@@ -2,8 +2,59 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/storage/kiwi/android/app/src/main/res/layout-sw720dp/fragment_credit_card_management.xml" value="0.155859375" />
+        <entry key="..\:/storage/kiwi/android/app/src/main/res/layout-sw720dp/fragment_explore_destination_detail.xml" value="0.155859375" />
+        <entry key="..\:/storage/kiwi/android/app/src/main/res/layout-sw720dp/item_terminal_detail_generic.xml" value="0.155859375" />
+        <entry key="..\:/storage/kiwi/android/app/src/main/res/layout/fragment_ancillaries_fare_types_saver_upgrade.xml" value="0.2078125" />
+        <entry key="..\:/storage/kiwi/android/app/src/main/res/layout/fragment_billing_details_list.xml" value="0.2078125" />
+        <entry key="..\:/storage/kiwi/android/app/src/main/res/layout/fragment_booking_ancillaries_step.xml" value="0.2078125" />
+        <entry key="..\:/storage/kiwi/android/app/src/main/res/layout/fragment_booking_instabooking.xml" value="0.2078125" />
+        <entry key="..\:/storage/kiwi/android/app/src/main/res/layout/fragment_explore_airport.xml" value="0.2078125" />
+        <entry key="..\:/storage/kiwi/android/app/src/main/res/layout/fragment_explore_destination.xml" value="0.2078125" />
+        <entry key="..\:/storage/kiwi/android/app/src/main/res/layout/fragment_explore_destination_detail.xml" value="0.2078125" />
+        <entry key="..\:/storage/kiwi/android/app/src/main/res/layout/fragment_onboarding_step_currency.xml" value="0.2078125" />
+        <entry key="..\:/storage/kiwi/android/app/src/main/res/layout/fragment_onboarding_step_location.xml" value="0.3807291666666667" />
+        <entry key="..\:/storage/kiwi/android/app/src/main/res/layout/fragment_onboarding_step_login_external.xml" value="0.2078125" />
+        <entry key="..\:/storage/kiwi/android/app/src/main/res/layout/fragment_onboarding_step_region.xml" value="0.2078125" />
+        <entry key="..\:/storage/kiwi/android/app/src/main/res/layout/fragment_price_alert.xml" value="0.2078125" />
+        <entry key="..\:/storage/kiwi/android/app/src/main/res/layout/fragment_saved_travelers_list.xml" value="0.2078125" />
+        <entry key="..\:/storage/kiwi/android/app/src/main/res/layout/item_banner_add_bags.xml" value="0.2078125" />
+        <entry key="..\:/storage/kiwi/android/app/src/main/res/layout/item_banner_car_rental.xml" value="0.2078125" />
+        <entry key="..\:/storage/kiwi/android/app/src/main/res/layout/item_banner_fly_to_campaign.xml" value="0.2078125" />
+        <entry key="..\:/storage/kiwi/android/app/src/main/res/layout/item_banner_nomad.xml" value="0.2078125" />
+        <entry key="..\:/storage/kiwi/android/app/src/main/res/layout/item_banner_travel_tip.xml" value="0.2078125" />
+        <entry key="..\:/storage/kiwi/android/app/src/main/res/layout/item_explore_destination_list_poi.xml" value="0.2078125" />
+        <entry key="..\:/storage/kiwi/android/app/src/main/res/layout/item_explore_destination_map_poi.xml" value="0.2078125" />
+        <entry key="..\:/storage/kiwi/android/app/src/main/res/layout/item_explore_destination_tour.xml" value="0.2078125" />
+        <entry key="..\:/storage/kiwi/android/app/src/main/res/layout/item_legacy_messages_adapter_message.xml" value="0.2078125" />
+        <entry key="..\:/storage/kiwi/android/app/src/main/res/layout/item_manage_my_booking_adapter_trip.xml" value="0.2078125" />
+        <entry key="..\:/storage/kiwi/android/app/src/main/res/layout/item_place_picker_empty.xml" value="0.2078125" />
+        <entry key="..\:/storage/kiwi/android/app/src/main/res/layout/item_terminal_detail_generic.xml" value="0.2078125" />
+        <entry key="..\:/storage/kiwi/android/app/src/main/res/layout/item_travel_result_aggregation.xml" value="0.2078125" />
+        <entry key="..\:/storage/kiwi/android/app/src/main/res/layout/item_travel_result_error.xml" value="0.2078125" />
+        <entry key="..\:/storage/kiwi/android/app/src/main/res/layout/layout_explore_destination_search_trips.xml" value="0.33" />
+        <entry key="..\:/storage/kiwi/android/app/src/main/res/layout/overlay_offline.xml" value="0.2078125" />
+        <entry key="..\:/storage/kiwi/android/app/src/main/res/layout/widget_booking_skeleton_loading.xml" value="0.2078125" />
+        <entry key="..\:/storage/kiwi/android/app/src/main/res/layout/widget_booking_trip_info_detail.xml" value="0.2078125" />
+        <entry key="..\:/storage/kiwi/android/app/src/main/res/layout/widget_gateway_payment_methods.xml" value="0.2078125" />
+        <entry key="..\:/storage/kiwi/android/app/src/main/res/layout/widget_gateway_payment_methods_v2.xml" value="0.2078125" />
+        <entry key="..\:/storage/kiwi/android/feature/account/src/main/res/layout/fragment_login_check_email.xml" value="0.2078125" />
+        <entry key="..\:/storage/kiwi/android/feature/account/src/main/res/layout/fragment_login_email_input.xml" value="0.2078125" />
+        <entry key="..\:/storage/kiwi/android/feature/account/src/main/res/layout/fragment_login_email_sign_in.xml" value="0.2078125" />
+        <entry key="..\:/storage/kiwi/android/feature/account/src/main/res/layout/fragment_login_success.xml" value="0.2078125" />
+        <entry key="..\:/storage/kiwi/android/feature/account/src/main/res/layout/fragment_magic_signed_in.xml" value="0.2078125" />
+        <entry key="..\:/storage/kiwi/android/feature/account/src/main/res/layout/fragment_replace_user.xml" value="0.2078125" />
+        <entry key="..\:/storage/kiwi/android/feature/ancillaries/src/main/res/layout/fragment_baggage_blue_ribbon_bags_picker.xml" value="0.2078125" />
+        <entry key="..\:/storage/kiwi/android/feature/ancillaries/src/main/res/layout/fragment_seatmap_no_custom_seating.xml" value="0.2078125" />
+        <entry key="..\:/storage/kiwi/android/feature/ancillaries/src/main/res/layout/fragment_seatmap_no_seating_for_trip.xml" value="0.2078125" />
+        <entry key="..\:/storage/kiwi/android/feature/ancillaries/src/main/res/layout/item_baggage_checked_not_available.xml" value="0.2078125" />
         <entry key="..\:/storage/kiwi/android/feature/helpdesk/src/main/res/drawable/background_rounded_gray.xml" value="0.396875" />
         <entry key="..\:/storage/kiwi/android/feature/helpdesk/src/main/res/drawable/unread_indicator.xml" value="0.396875" />
+        <entry key="..\:/storage/kiwi/android/feature/helpdesk/src/main/res/layout/overlay_helpdesk_conversation_list_empty.xml" value="0.2078125" />
+        <entry key="..\:/storage/kiwi/android/feature/helpdesk/src/main/res/layout/overlay_helpdesk_conversation_list_error.xml" value="0.2078125" />
+        <entry key="..\:/storage/kiwi/android/feature/messages/src/main/res/layout/activity_tram_message_detail.xml" value="0.2078125" />
+        <entry key="..\:/storage/kiwi/android/feature/messages/src/main/res/layout/item_exponea_message.xml" value="0.2078125" />
+        <entry key="..\:/storage/kiwi/android/feature/messages/src/main/res/layout/overlay_empty.xml" value="0.2078125" />
       </map>
     </option>
   </component>
