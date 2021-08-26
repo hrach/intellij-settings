@@ -3,11 +3,13 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.kt" />
     <mask>*.xml</mask>
     <mask>phraseapp.xml</mask>
     <mask>.xml</mask>
     <mask>*mock*</mask>
-    <mask>*.gradle</mask>
     <mask>*.yml</mask>
+    <mask>*.gradle</mask>
+    <mask>*.kt</mask>
   </component>
 </application>
